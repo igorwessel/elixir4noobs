@@ -34,7 +34,6 @@ Para isso, você precisa instalar o [Controle de Pacotes do Sublime](https://pac
 Para instalar as extensões para o Visual Studio Code, você precisa destas extensões:
 
  - ElixirLS: Elixir support and debugger
- - vscode-elixir
  - vscode-elixir-syntax
 
 Para isso, você precisa executar os comandos em seu Visual Studio Code:
